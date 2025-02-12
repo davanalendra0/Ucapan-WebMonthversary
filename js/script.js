@@ -18,7 +18,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
         showConfirmButton: false,
         timer: 1500,
       }).then(function () {
-        window.location.href = "birthday.html";
+        window.location.href = "lopu.html";
       });
     } else {
       Swal.fire({
