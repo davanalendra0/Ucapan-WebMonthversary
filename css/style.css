@@ -72,6 +72,11 @@
   }
 
   /* Birtday page styles */
+.song {
+  visibility: hidden;
+}
+
+  /* Birtday page styles */
 .container {
   height: 100vh;
   margin: 0 auto;
